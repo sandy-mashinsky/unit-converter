@@ -1,0 +1,6 @@
+1 cup = 16 tablespoon
+1 tablespoon = 3 teaspoon
+1 pound = 10 ounce
+1 teaspoon = 8 dash
+1 teaspoon = 16 pinch
+1 teaspoon = 4 gram
